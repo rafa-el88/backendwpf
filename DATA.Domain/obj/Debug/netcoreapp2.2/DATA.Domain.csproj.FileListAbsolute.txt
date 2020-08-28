@@ -1,0 +1,32 @@
+C:\JuntoSeguros\TesteBackend\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.deps.json
+C:\JuntoSeguros\TesteBackend\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.dll
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfoInputs.cache
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfo.cs
+C:\JuntoSeguros\TesteBackend\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.pdb
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.dll
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.pdb
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.csprojAssemblyReference.cache
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.deps.json
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.dll
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.pdb
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.csprojAssemblyReference.cache
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfoInputs.cache
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfo.cs
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.dll
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.pdb
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.runtimeconfig.json
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.runtimeconfig.dev.json
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.genruntimeconfig.cache
+E:\Projetos Testes\PRJ-JuntoSegTest-master\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.deps.json
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.runtimeconfig.json
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.runtimeconfig.dev.json
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.dll
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.pdb
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.csprojAssemblyReference.cache
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfoInputs.cache
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfo.cs
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.dll
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.pdb
+E:\Projetos Testes\Teste_aprovado\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.genruntimeconfig.cache

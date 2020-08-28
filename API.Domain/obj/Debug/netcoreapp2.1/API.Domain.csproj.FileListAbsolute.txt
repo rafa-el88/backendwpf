@@ -1,0 +1,4 @@
+E:\Projetos Testes\Teste_aprovado\API.Domain\obj\Debug\netcoreapp2.1\API.Domain.csprojAssemblyReference.cache
+E:\Projetos Testes\Teste_aprovado\API.Domain\obj\Debug\netcoreapp2.1\API.Domain.AssemblyInfoInputs.cache
+E:\Projetos Testes\Teste_aprovado\API.Domain\obj\Debug\netcoreapp2.1\API.Domain.AssemblyInfo.cs
+E:\Projetos Testes\Teste_aprovado\API.Domain\obj\Debug\netcoreapp2.1\API.Domain.csproj.CoreCompileInputs.cache

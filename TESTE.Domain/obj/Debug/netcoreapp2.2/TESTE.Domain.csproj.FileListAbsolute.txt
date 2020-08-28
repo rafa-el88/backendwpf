@@ -1,0 +1,16 @@
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\TESTE.Domain.deps.json
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\TESTE.Domain.runtimeconfig.json
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\TESTE.Domain.runtimeconfig.dev.json
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\TESTE.Domain.dll
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\TESTE.Domain.pdb
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.dll
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.pdb
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\obj\Debug\netcoreapp2.2\TESTE.Domain.csprojAssemblyReference.cache
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\obj\Debug\netcoreapp2.2\TESTE.Domain.AssemblyInfoInputs.cache
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\obj\Debug\netcoreapp2.2\TESTE.Domain.AssemblyInfo.cs
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\obj\Debug\netcoreapp2.2\TESTE.Domain.csproj.CopyComplete
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\obj\Debug\netcoreapp2.2\TESTE.Domain.dll
+C:\JuntoSeguros\TesteBackend\TESTE.Domain\obj\Debug\netcoreapp2.2\TESTE.Domain.pdb
